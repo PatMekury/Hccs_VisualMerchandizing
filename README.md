@@ -1,2 +1,5 @@
-# Hccs_VisualMerchandizing
- This project is a virtual reality (VR) simulation that immerses users in the dynamic world of fashion merchandising. It provides a realistic representation of a retail store environment, focusing on the role of a visual merchandiser. Users can interact with various elements in the store, learning about object placements, store arrangement, and strategies to capture buyers’ attention. This VR experience aims to provide a comprehensive understanding of visual merchandising in the retail industry, offering users the ability to explore and learn in an engaging and innovative way.
+# Spatial Unity SDK Starter Template
+
+A template to get you started building environments for Spatial.
+
+Read more here: https://docs.spatial.io
