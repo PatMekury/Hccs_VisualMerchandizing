@@ -631,7 +631,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 886817731}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 11.959999, y: -6.086998, z: 4.007}
+  m_LocalPosition: {x: 13.469, y: -6.086998, z: 5.699}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -679,7 +679,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 900336173}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -12.27, y: 6.263, z: 9.711}
+  m_LocalPosition: {x: -9.659, y: 6.263, z: 15.09}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -920,7 +920,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 679647456a363450ab8d072b2a91f5a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  title: Teleport to Third Fllor
+  title: Teleport to Third Floor
   description: 
   backgroundColor: {r: 0, g: 0, b: 0, a: 0.4}
   foregroundColor: {r: 1, g: 1, b: 1, a: 1}
@@ -1906,7 +1906,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 505989759392613440}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -54.07, y: -69.986, z: 18.85}
+  m_LocalPosition: {x: -55.71, y: -69.986, z: 24.856}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -9912,7 +9912,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6194314532629765376}
   m_LocalRotation: {x: 0.000000005268357, y: -0.7071069, z: -0.0000000052683555, w: 0.7071067}
-  m_LocalPosition: {x: -2.348, y: 0.02, z: 0.244}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []

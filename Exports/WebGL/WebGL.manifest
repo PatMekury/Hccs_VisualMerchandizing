@@ -3,8 +3,8 @@ CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: fashion-merchandizing_0
-      Hash: a55e7cc72eac53a88a2cca78e8c1d613
-      CRC: 947305373
+      Hash: 35397e662a025144be7ce1ef56ad9ddf
+      CRC: 548305344
       Dependencies: {}
     Info_1:
       Name: fashion-merchandizing_csharp-assembly
