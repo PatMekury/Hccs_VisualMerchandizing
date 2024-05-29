@@ -8,6 +8,7 @@ namespace FashionHouse
         public float initialBudget = 5000f;
         public AudioSource incorrectAudio;
         public AudioSource correctAudio;
+        public Text Amount;
 
         private float currentBudget;
         private int correctChoicesCount = 0;
@@ -25,6 +26,7 @@ namespace FashionHouse
             if (currentBudget >= price)
             {
                 currentBudget -= price;
+               // Amount.text = currentBudget.ToString();
                 return true; // Successfully deducted budget
             }
             else
