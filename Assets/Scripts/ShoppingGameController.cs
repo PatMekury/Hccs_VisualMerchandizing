@@ -8,9 +8,11 @@ namespace FashionHouse
         public float initialBudget = 5000f;
         public AudioSource incorrectAudio;
         public AudioSource correctAudio;
-        public Text Amount;
+        public Text balance;
+        public Text theExpenditure;
 
         private float currentBudget;
+        private float expenditure;
         private int correctChoicesCount = 0;
 
         public Image[] inventorySlots; // Assign these in the Inspector
@@ -26,7 +28,9 @@ namespace FashionHouse
             if (currentBudget >= price)
             {
                 currentBudget -= price;
-               // Amount.text = currentBudget.ToString();
+                expenditure = 5000 - currentBudget;
+                balance.text = string.Format("Balance: ${0:0.00}", currentBudget);
+                theExpenditure.text = string.Format("Expenditure: ${0:0.00}", expenditure);
                 return true; // Successfully deducted budget
             }
             else
